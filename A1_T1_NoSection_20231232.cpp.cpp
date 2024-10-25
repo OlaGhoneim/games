@@ -1,9 +1,7 @@
 
-// File:  A1_T1_NoSection_20231232.cpp
-// Purpose: problem 3,6,9,12
+
 // Author:Ola Ghoneim Hammad Ahmed Salama
-// Section: N0 section
-// ID: 20231232
+
 
 #include <bits/stdc++.h>
 using namespace std;
